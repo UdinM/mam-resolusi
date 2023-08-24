@@ -1,0 +1,4 @@
+MAM Resolusi
+- Memahami lebih dalam php, php mvc
+- Memahami Database SQL
+- Memahami Git dan Github
