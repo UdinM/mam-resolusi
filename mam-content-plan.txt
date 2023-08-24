@@ -5,3 +5,5 @@ CONTENT PLAN MAM
 - Blender Modeling
 - Lightning Blender
 - Modeling Blender
+  * basic
+  * advanced
