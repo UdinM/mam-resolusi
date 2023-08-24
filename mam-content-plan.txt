@@ -4,3 +4,4 @@ CONTENT PLAN MAM
 - Image Editing
 - Blender Modeling
 - Lightning Blender
+- Modeling Blender
