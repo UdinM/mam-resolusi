@@ -2,3 +2,5 @@ CONTENT PLAN MAM
 
 - Flexbox mockup
 - Image Editing
+- Blender Modeling
+- Lightning Blender
